@@ -14,3 +14,5 @@ Following data preprocessing, three tables were constructed and subsequently sto
 ## Results
 The analysis validated both hypotheses. Findings revealed that a significant majority of Slytherin members were indeed pure-blooded and human, in alignment with the initial hypotheses.
 
+## Link to Presentation
+https://www.canva.com/design/DAGGKMHsPUc/PyT-OtHWLoLK_X_svRdQ7g/edit
