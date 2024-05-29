@@ -1,5 +1,5 @@
 ## Project: Slytherin House Analysis
-# Team: Katherine Granados, Eros Reyes, Taisgaly Velez, Rayner Morla, Ishwarya Sundhararajan
+### Team: Katherine Granados, Eros Reyes, Taisgaly Velez, Rayner Morla, Ishwarya Sundhararajan
 
 ## Description
 Team Slytherin had 2 hypotheses going into the project. The first hypothesis posited that more than 75% of Slytherin members were pure-blooded, a central theme in the Harry Potter series and one of the house's most prideful attributes. The second hypothesis suggested that less than 10% of Slytherin House consisted of non-human members. This README provides a detailed account of the analysis process and findings.
